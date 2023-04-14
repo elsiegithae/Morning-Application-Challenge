@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Morning Application Challenge</string>
+    <string-array name="contacts">
+        <item>Elsie</item>
+        <item>Hepsy</item>
+        <item>Breanna</item>
+        <item>Vicky</item>
+        <item>Victoria</item>
+        <item>Roger</item>
+        <item>Steve</item>
+        <item>David</item>
+        <item>Stacey</item>
+        <item>Grace</item>
+        <item>Sheryl</item>
+        <item>Yvonne</item>
+        <item>Walter</item>
+    </string-array>
+</resources>
